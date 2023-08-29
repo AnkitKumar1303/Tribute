@@ -11,3 +11,9 @@ UI:
 <img width="1440" alt="Screenshot 2023-08-28 at 5 10 20 PM" src="https://github.com/AnkitKumar1303/Tribute/assets/42855900/28ec77ae-4163-486b-81a1-43a3b95fdc7e">
 
 
+Explanation:
+
+<img width="697" alt="Screenshot 2023-08-29 at 3 45 34 PM" src="https://github.com/AnkitKumar1303/Tribute/assets/42855900/3dc03006-09c6-45f2-b83b-3ec306237a27">
+
+
+
